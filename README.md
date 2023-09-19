@@ -30,5 +30,4 @@ Here you can see the difference between default YOLO model and our proposed mode
 
 
 
-The details of the architectural changes will be published soon. 
 
